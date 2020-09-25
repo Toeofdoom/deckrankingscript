@@ -48,7 +48,9 @@ To run the script, run
 
 ### Running without API setup
 You can run 
-python inference.py
+
+    python inference.py
+
 directly - it will pull data from the "data" section internally. You can copy/paste data directly from a spreadsheet over the existing contents, and the output can be pasted back into a spreadsheet, e.g. the default output is:
 
     Lysander, 2136.117885667992
